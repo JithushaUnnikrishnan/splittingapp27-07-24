@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260983379937",
+    "project_id": "splittingapp-437d2",
+    "storage_bucket": "splittingapp-437d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260983379937:android:3c125ce30f524cce8264a0",
+        "android_client_info": {
+          "package_name": "com.example.splittingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsK-nGHzLwT0T6EgC1QtU2g28iVWv31R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
